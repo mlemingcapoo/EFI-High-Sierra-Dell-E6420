@@ -1,5 +1,5 @@
 # EFI-High-Sierra-Dell-E6420
-An working (kinda) hackintosh EFI CLOVER folder for Dell Latitude E6420<br>
+A working (kinda) hackintosh EFI CLOVER folder for Dell Latitude E6420<br>
 Version: MacOS High Sierra 10.13.x
 
 
