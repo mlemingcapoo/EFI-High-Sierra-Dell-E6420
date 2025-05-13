@@ -22,3 +22,5 @@ Not working:
 
 Known issues:
 - Sometimes, depends on what you are doing, the system will freeze and the only way to make it work again is hold down the power button to completely shutdown, and reboot. I literally have no idea what went wrong and the only way is to disable gpu acceleration
+
+readme update: removed cringe
