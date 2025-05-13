@@ -5,7 +5,7 @@ Version: MacOS High Sierra 10.13.x
 
 What's working:
 - bootable (10.13.x)
-- usb ports (if <b>USBPorts.kext</b> doesn't work, means if you face "Still waiting for root device" kernel panic, pls use <b>USBInjectAll.kext</B> instead)
+- usb ports (if <b>USBPorts.kext</b> doesn't work, means if you face "Still waiting for root device" kernel panic, use <b>USBInjectAll.kext</B> instead)
 - camera
 - ethernet
 - audio, mic (if not, you will have to change <i>layout-id</i> in config.plist
